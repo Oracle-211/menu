@@ -1,5 +1,9 @@
 {
- "updatedAt": "2026-10-31T13:32:06.506Z",
+ "updatedAt": "2026-11-01T14:25:41.640Z",
+ "bar": {
+  "kicker": "Orhun's",
+  "title": "Cocktail Bar"
+ },
  "sections": [
   {
    "key": "spirit-forward",

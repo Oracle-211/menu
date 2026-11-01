@@ -38,8 +38,8 @@
 </head>
 <body>
 <header>
-  <div class="kicker">Orhun's</div>
-  <h1>Cocktail Bar</h1>
+  <div class="kicker" id="kicker">Orhun's</div>
+  <h1 id="barname">Cocktail Bar</h1>
   <div class="welcome" id="welcome"></div>
 </header>
 <div class="bar">
@@ -67,6 +67,11 @@
 
   function render() {
     document.documentElement.lang = lang;
+    if (data && data.bar) {
+      document.getElementById('kicker').textContent = data.bar.kicker;
+      document.getElementById('barname').textContent = data.bar.title;
+      document.title = (data.bar.kicker ? data.bar.kicker + ' ' : '') + data.bar.title;
+    }
     document.getElementById('welcome').textContent = text[lang].welcome;
     document.querySelectorAll('.langs button').forEach(function (b) { b.classList.toggle('on', b.dataset.lang === lang); });
     var menu = document.getElementById('menu');
