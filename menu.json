@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T15:43:21.308Z",
+ "updatedAt": "2026-11-04T09:16:33.960Z",
  "bar": {
   "kicker": "Orhun's",
   "title": "Cocktail Bar"
@@ -12,83 +12,6 @@
     "en": "Spirit Forward"
    },
    "items": [
-    {
-     "name": {
-      "tr": "Lucien Gaudin",
-      "en": "Lucien Gaudin"
-     },
-     "notes": {
-      "tr": "Acı · Aromatik · Yumuşak",
-      "en": "Bitters · Aromatic · Soft"
-     },
-     "image": "img/mvo8j9k937hin8-1792987234658.jpg"
-    },
-    {
-     "name": {
-      "tr": "Last Word",
-      "en": "Last Word"
-     },
-     "notes": {
-      "tr": "Bitkisel · Keskin · Hafif çiçeksi",
-      "en": "Herbal · Sharp · Delicate Floral"
-     },
-     "image": "img/mvo8j9knny6dru-1792987234669.jpg"
-    },
-    {
-     "name": {
-      "tr": "Last Aviator",
-      "en": "Last Aviator"
-     },
-     "notes": {
-      "tr": "Bitkisel · Şık · Hafif çiçeksi",
-      "en": "Herbal · Elegant · Delicate Floral"
-     },
-     "image": "img/mvo8j9kyh9dw3l-1792987234679.jpg"
-    },
-    {
-     "name": {
-      "tr": "Tuxedo",
-      "en": "Tuxedo"
-     },
-     "notes": {
-      "tr": "Sek · Keskin · Rafine",
-      "en": "Dry · Sharp · Refined"
-     },
-     "image": "img/mvo8j9lve5741b-1792987234714.jpg"
-    },
-    {
-     "name": {
-      "tr": "Martini Dry",
-      "en": "Martini Dry"
-     },
-     "notes": {
-      "tr": "Sek · Tuzlu · Botanik",
-      "en": "Dry · Salty · Botanical"
-     },
-     "image": "img/mvo8j9m6gtd9nr-1792987234726.jpg"
-    },
-    {
-     "name": {
-      "tr": "Vesper Martini",
-      "en": "Vesper Martini"
-     },
-     "notes": {
-      "tr": "Sert · Botanik · Şık",
-      "en": "Strong · Botanical · Elegant"
-     },
-     "image": "img/mvo8j9mgvu0pub-1792987234736.jpg"
-    },
-    {
-     "name": {
-      "tr": "Corpse Reviver #2",
-      "en": "Corpse Reviver #2"
-     },
-     "notes": {
-      "tr": "Narenciyeli · Ferah · Sek",
-      "en": "Citrusy · Fresh · Dry"
-     },
-     "image": "img/mvo8j9mq9lqh2k-1792987234745.jpg"
-    },
     {
      "name": {
       "tr": "Old Fashioned",
@@ -111,17 +34,6 @@
    "items": [
     {
      "name": {
-      "tr": "Aviation",
-      "en": "Aviation"
-     },
-     "notes": {
-      "tr": "Çiçeksi · Narenciyeli · Zarif",
-      "en": "Floral · Citrusy · Delicate"
-     },
-     "image": "img/mvo8j9nfplthfj-1792987234768.jpg"
-    },
-    {
-     "name": {
       "tr": "Picador (Margarita)",
       "en": "Picador (Margarita)"
      },
@@ -141,17 +53,6 @@
       "en": "Citrusy · Fresh · Lightly Sweet"
      },
      "image": "img/mvo8j9nylbalyd-1792987234790.jpg"
-    },
-    {
-     "name": {
-      "tr": "Greyhound",
-      "en": "Greyhound"
-     },
-     "notes": {
-      "tr": "Narenciyeli · Serinletici · Hafif acı",
-      "en": "Citrusy · Refreshing · Slightly Bitter"
-     },
-     "image": "img/mvo8j9om91jggn-1792987234820.jpg"
     }
    ]
   },
@@ -211,7 +112,7 @@
       "tr": "Narenciyeli · Aromatik · Güçlü",
       "en": "Citrusy · Aromatic · Bold"
      },
-     "image": "img/mvo8j9s377e54f-1792987234960.jpg"
+     "image": "img/mvo8j9s377e54f-1793606884382.jpeg"
     },
     {
      "name": {
@@ -245,17 +146,6 @@
       "en": "Spicy · Silky · Elegant"
      },
      "image": "img/mvo8j9t62n4xmm-1792987234995.jpg"
-    },
-    {
-     "name": {
-      "tr": "Seen",
-      "en": "Seen"
-     },
-     "notes": {
-      "tr": "Sert · Berrak · Şık",
-      "en": "Strong · Clear · Elegant"
-     },
-     "image": "img/mvo8j9tgh8uofx-1792987235004.jpg"
     }
    ]
   }
